@@ -1,4 +1,4 @@
-# change_problem_dynamic_programming
-Usando programação dinâmica para resolver problema do troco de moedas
+# Change_Problem_Dynamic_Programming
+Using Dynamic Programming to Solve the Coin Change Problem
 
-Neste código é usado linguagem python
+This code uses python language.
